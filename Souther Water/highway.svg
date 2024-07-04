@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="65" height="58" viewBox="0 0 65 58">
-  <g id="highway" transform="translate(-0.912)">
-    <path id="Path" d="M2.7,0H8L7.461,15H0Z" transform="translate(22.912)" fill="#26adcd"/>
-    <path id="Path-2" data-name="Path" d="M6.21,0H16L14.963,32H0Z" transform="translate(14.912 26)" fill="#26adcd"/>
-    <path id="Path-3" data-name="Path" d="M5.3,0H0L.539,15H8Z" transform="translate(34.912)" fill="#26adcd"/>
-    <path id="Path-4" data-name="Path" d="M9.788,0H0L1.033,32H16Z" transform="translate(35.912 26)" fill="#26adcd"/>
-    <path id="Path-5" data-name="Path" d="M57.595,6.737V13H53.3L51.653,5.882c-.362-1.236-1.1-1.422-2.287-1.422H15.083c-1.1.093-1.736.186-2.012,1.422L11.428,13H7.13V6.737C7.13,5.6,6.765,4.46,4.755,4.46H0V0H65V4.46H59.7c-1.28,0-2.1.474-2.1,2.277" transform="translate(0.912 18)" fill="#fff"/>
-  </g>
-</svg>
